@@ -17,4 +17,3 @@ Stock & Crypto Analytics Dashboard built with Python.
 - Plotly
 - Scikit-learn
 
-streamlit run app.py
