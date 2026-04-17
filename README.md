@@ -15,5 +15,6 @@ Stock & Crypto Analytics Dashboard built with Python.
 - yfinance
 - pandas / numpy
 - Plotly
+- Scikit-learn
 
 streamlit run app.py
